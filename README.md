@@ -1,1 +1,1 @@
-# weatherFocus
+# The app is focused on updating you with the weather forecast, giving you a heads up of tomorrow/upcoming days' possibilities, and providing advice on what you can do. The app also shows you recommend places you can go to when it's hot
